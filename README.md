@@ -1,4 +1,4 @@
-# CrewAI Crash Course: Building Multi-Agent Systems for Real-World Use Cases
+# CrewAI 101: Building Multi-Agent Systems for Real-World Use Cases
 This repository demonstrates how to create and utilize multiple AI agents for complex tasks using the CrewAI framework. The example focuses on automating the creation of blog posts from existing YouTube videos.
 
 ## Project Overview
@@ -35,6 +35,13 @@ This will trigger the following sequence:
 - The Writer agent generates a blog post based on the Researcher's findings.
 - The output will be a new Markdown file (new_blog_post.md) containing the generated blog post.
 
-## Acknowledgement
+## Key Considerations
+- LLM Integration: The example utilizes Google Gemini and AWS Nova models. You can explore other LLM options as well 
+- Workflow Customization: Experiment with different agent configurations, task definitions, and workflows to optimize performance and explore new creative possibilities.
+- Tool Integration: Integrate additional tools, such as sentiment analysis APIs or summarization tools, to enhance the capabilities of your agents.
+
+## Acknowledgements
 [Krish Naik](https://www.youtube.com/watch?v=UV81LAb3x2g&t=1704s)
+
+
 
