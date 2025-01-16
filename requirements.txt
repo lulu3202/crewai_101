@@ -1,0 +1,10 @@
+crewai
+langchain_google_genai #google gemini models
+load_dotenv
+crewai_tools
+langchain-community
+langchain-aws
+boto3 
+awscli
+
+

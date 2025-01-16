@@ -1,0 +1,4 @@
+.env
+venv/
+/crew/__pycache__
+
